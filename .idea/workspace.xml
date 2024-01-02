@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df7a929c-2f60-4568-bf3e-c40f7d9e3d91" name="Changes" comment="refatorando codigo usando lambda em java">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dio/digitalinnovation/ExerciciosStreamAPI.java" afterDir="false" />
+    <list default="true" id="df7a929c-2f60-4568-bf3e-c40f7d9e3d91" name="Changes" comment="aplicando alguns metodos de Stream API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dio/digitalinnovation/ExerciciosStreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dio/digitalinnovation/ExerciciosStreamAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +75,20 @@
       <option name="project" value="LOCAL" />
       <updated>1704152849902</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aplicando alguns metodos de Stream API">
+      <option name="closed" value="true" />
+      <created>1704155772217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704155772217</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refatorando codigo usando lambda em java" />
-    <option name="LAST_COMMIT_MESSAGE" value="refatorando codigo usando lambda em java" />
+    <MESSAGE value="aplicando alguns metodos de Stream API" />
+    <option name="LAST_COMMIT_MESSAGE" value="aplicando alguns metodos de Stream API" />
   </component>
 </project>
